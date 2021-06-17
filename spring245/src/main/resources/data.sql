@@ -1,0 +1,2 @@
+INSERT INTO department (name)VALUES('HR'),('CEO') ;
+INSERT INTO user (NAME,DEPARTMENT_ID)VALUES('JOHN',1),('KEN',2),('KATE',1);
