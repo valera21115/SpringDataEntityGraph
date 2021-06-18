@@ -11,6 +11,5 @@ spring:
 
 logging:
   level:
-
     org.hibernate.type.descriptor.sql.BasicBinder: trace
     org.springframework.transaction.interceptor: trace
